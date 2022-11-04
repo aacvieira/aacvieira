@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aacvieira
 - 👀 I’m interested in coding for VBA, C, Matlab, Phython, ...
 - 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on programming functions and applications, for civil engineering..
+- 💞️ I’m looking to collaborate on programming functions and applications, for civil engineering.
 - 📫 How to reach me +351.91.732.35.70
 
 <!---
